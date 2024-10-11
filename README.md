@@ -1,5 +1,5 @@
 # Sales-Data-Analysis-of-Tmall-in-February-2020
-# 天猫_20年2月份销售数据分析
+天猫_20年2月份销售数据分析
 
 
 This repository is a case study I used for learning data analysis. The data consists of Tmall sales orders from February 2020, which were scraped. 
